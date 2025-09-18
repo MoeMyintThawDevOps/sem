@@ -1,0 +1,4 @@
+FROM openjdk:17
+COPY ./target/classes/imc /tmp/imc
+WORKDIR /tmp
+ENTRYPOINT ["java", "imc.com.Appnew"]
