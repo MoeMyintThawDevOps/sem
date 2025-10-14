@@ -8,11 +8,11 @@ rectangle "Population Analyst System" {
 
     usecase "Generate All Cities Population Report" as UC_Main
 
-    usecase "View All Cities World" as UC_World
-    usecase "View Cities by Continent" as UC_Continent
-    usecase "View Cities by Region" as UC_Region
-    usecase "View Cities by Country" as UC_Country
-    usecase "View Cities by District" as UC_District
+    usecase "View All Cities of World" as UC_World
+    usecase "View All Cities by Continent" as UC_Continent
+    usecase "View All Cities by Region" as UC_Region
+    usecase "View All Cities by Country" as UC_Country
+    usecase "View All Cities by District" as UC_District
 }
 
 Owner --> UC_Main

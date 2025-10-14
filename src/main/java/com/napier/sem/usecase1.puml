@@ -4,7 +4,7 @@ title Use Case Diagram1: Generate Population Report
 actor "Data Analyst" as Analyst
 actor "Project Owner" as Owner
 
-rectangle "Global Demographic System" {
+rectangle "Population Analyst System" {
 
     usecase "Generate Population Report" as UC_Main
 
