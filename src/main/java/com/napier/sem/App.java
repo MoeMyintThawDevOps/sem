@@ -64,11 +64,6 @@ public class App {
         a.disconnect();
     }
 
-    public Employee getEmployee(int i) {
-        return null;
-    }
 
-    public void displayEmployee(Employee emp) {
-    }
 
 }
