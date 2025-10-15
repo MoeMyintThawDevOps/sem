@@ -14,10 +14,15 @@ following information.
 
 
 -The population of the world.
+
 -The population of a continent.
+
 -The population of a region.
+
 -The population of a country.
+
 -The population of a district.
+
 -The population of a city.
 
 
@@ -25,9 +30,13 @@ And have to provide the number of people who speak the following languages
 
 
 -Chinese
+
 -English
+
 -Hindi
+
 -Spanish
+
 -Arabic
 
 I am the one of the group member of **DevOps Group-13**.
