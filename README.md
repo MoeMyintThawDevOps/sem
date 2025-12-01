@@ -45,4 +45,9 @@ project owner of our Population Reporting System.
 
 
 [![LICENSE](https://img.shields.io/github/license/MoeMyintThawDevOps/sem.svg?style=flat-square)](https://github.com/MoeMyintThawDevOps/sem/blob/master/LICENSE)
+[![Releases](https://img.shields.io/github/release/MoeMyintThawDevOps/sem.svg?style=flat-square)](https://github.com/MoeMyintThawDevOps/sem/releases)
+[![codecov](https://codecov.io/gh/MoeMyintThawDevOps/sem/branch/main/graph/badge.svg)](https://codecov.io/gh/MoeMyintThawDevOps/sem)
+Master built![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/MoeMyintThawDevOps/sem/main.yml?branch=main&style=flat-square)
+Develop built![GitHub Workflow Status (develop)](https://img.shields.io/github/actions/workflow/status/MoeMyintThawDevOps/sem/main.yml?branch=develop&style=flat-square)
+
 
